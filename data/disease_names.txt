@@ -1,0 +1,634 @@
+hfrs
+generalized anxiety disorder
+selective mutism
+focal muscular atrophies
+sids
+premenstrual syndrome
+acute coronary syndrome
+drsp disease
+ventricular septal defect
+juvenile anklosing spondylitis
+add
+central auditory processing disorder
+developmentally handicapped
+tia
+pms
+fvs
+ags
+erythropoietic protoporphyria
+lems
+osteonecrosis
+vanishing white matter disease
+bs
+ml
+ppma
+niemann pick disease type c1
+tac
+multiple chemical sensitivities
+ms
+dmd
+ch
+educable mentally retarded
+deaf
+attention deficit disorder residual type
+ocular motor apraxia
+gad
+cchs
+post polio syndrome
+neuronal ceroid lipofuscinosis
+african sleeping sickness
+opca
+df
+guillain barré syndrome
+holmes adie syndrome
+gastroesophageal reflux disease
+rsd
+yvs
+fibromyalgia syndrome
+zadik barak levin syndrome
+mucolipidoses
+pml
+chronic renal failure
+dm
+vwm disease
+ied
+epm
+periodic limb movement disorder
+calcium pyrophosphate deposition disease
+trainable mentally retarded
+oma
+mentally retarded
+systemic inflammatory response syndrome
+dba
+fsp
+juvenile rheumatoid arthritis
+uc
+hemolytic anemia elevated liver enzymes and low platelet count syndrome
+dd
+sudden infant death syndrome
+sars
+fetal alcohol spectrum disorders
+creutzfeldt jakob disease
+motor neuron disease
+uda
+atrial septal defect
+urinary tract infections
+tos
+adem
+japanese encephalitis
+neural tube defects
+tef
+mycobacterium avium complex
+neuroleptic malignant syndrome
+developmental verbal dyspraxia
+congenital insensitivity to pain with anhidrosis
+x linked sideroblastic anemia
+smith magenis syndrome
+ass
+gifted and learning disabled
+itp
+hd
+chronic fatigue immune dysfunction syndrome
+hellp syndrome
+aps
+nonketotic hyperglycinemia
+rti
+abdominal aortic aneurysm
+oa
+kawasaki syndrome
+add rt
+infantile spasm
+hps
+gbs
+carbapenem
+hyperaldosteronism
+nmds
+vulvovaginal candidiasis
+giant axonal neuropathy
+bbs
+ifap syndrome
+inad
+acute lung injury
+aldosterone producing adenoma
+cat scratch disease
+tracheoesophageal fistula
+odd
+sb
+septo optic dysplasia
+eds
+aids
+esrd
+sydenham chorea
+gastrointestinal
+mdr tb
+aicardi goutieres syndrome
+pdd
+gce
+cchf
+methicillin resistant staphylococcus aureus
+postural orthostatic tachycardia syndrome
+intermittent explosive disorder
+dhf
+oropharyngeal candidiasis
+acth deficiency
+fxs
+utis
+drug resistant streptococcus pneumoniae
+juvenile huntington disease
+sis
+glycine encephalopathy
+acs
+epp
+acute respiratory distress syndrome
+rheumatoid arthritis
+congestive heart failure
+xdr tb
+von hippel lindau disease
+agenesis of the corpus callosum
+cerebral palsy
+sc
+normal pressure hydrocephalus
+fibromuscular dysplasia
+frontotemporal dementia
+dbmd
+acc
+hereditary coproporphyria
+kss
+ccd
+pvl
+cjd
+bovine spongiform encephalopathy
+coronary heart disease
+cesd
+nld
+spinal muscular atrophy
+tsp
+chronic obstructive pulmonary disease
+bph
+ibs
+immunodeficiency centromere instability and facial anomalies syndrome
+std
+pcos
+learning disabilities
+sirs
+transmissible spongiform encephalopathies
+shaken infant syndrome
+cardiovascular disease
+gerstmann straussler scheinker disease
+hand foot and mouth disease
+short lasting unilateral neuralgiform headache with conjunctival injection and tearing
+williams syndrome
+as
+infantile refsum disease
+sbs
+cdgs
+bloom syndrome
+tn
+nf1
+trigeminal autonomic cephalalgia
+als
+ard
+cerebral cavernous malformation
+arbd
+urticaria deafness amyloidosis
+nbia
+reactive airway disease
+ws
+bacterial vaginosis
+hypoxanthine guanine phosphoribosyl transferase
+cpdd
+pw
+gn
+educable mentally handicapped
+is
+csd
+cholesteryl ester storage disease
+ucpps
+sma
+gt ld
+arnd
+def
+cidp
+vcfs
+delayed sleep phase syndrome
+alcohol related neurodevelopmental disorder
+developmental apraxia of speech
+fms
+neuromyelitis optica
+rlf
+alternating hemiplegia of childhood
+hard of hearing
+cadasil
+crf
+lipoid proteinosis
+albinism black lock cell migration disorder
+extensively drug resistant tuberculosis
+beh
+primary biliary cirrhosis
+ed
+ntd
+nms
+reflex sympathetic dystrophy
+osteoarthritis
+eee
+ibm
+ccm
+hdl2
+bd
+xp
+has
+dish
+duchenne becker muscular dystrophy
+reversible ischemic neurologic deficit
+sexually transmitted disease
+adrenocorticotropic hormone deficiency
+restless legs syndrome
+mac
+acute disseminated encephalomyelitis
+landau kleffner syndrome
+sturge weber syndrome
+hprt deficiency
+down syndrome
+gi
+ichthyosis follicularis alopecia and photophobia syndrome
+temporomandibular joint disorder
+rop
+acquired immune deficiency syndrome
+np
+digeorge syndrome
+charcot marie tooth disease
+cvd
+mr dd
+obstructive sleep apnea
+copd
+moh
+md
+myeloproliferative disorders
+tb
+dvd
+ts
+ibd
+ds
+psc
+viral hemorrhagic fever
+ird
+ulcerative colitis
+niemann pick disease
+mmr
+hsp
+huntington disease like 2
+chf
+metachromatic leukodystrophy
+developmental disability
+xeroderma pigmentosa
+lp
+wagr syndrome
+severe myoclonic epilepsy of infancy
+crkp
+asperger syndrome
+rs
+urologic chronic pelvic pain syndrome
+ld
+group a streptococcal disease
+diamond blackfan anemia
+sms
+human papillomavirus
+mnd
+duchenne muscular dystrophy
+cp
+ra
+primary lateral sclerosis
+fetal alcohol effects
+bmd
+trigeminal neuralgia
+attention deficit hyperactivity disorder
+aarskog scott syndrome
+rls
+ftd
+gwd
+tension type headache
+gas disease
+sunct
+measles mumps rubella
+ehk
+huntington disease
+epidermolytic hyperkeratosis
+nonverbal learning disability
+brown sequard syndrome
+medication overuse headaches
+klippel trenaunay weber syndrome
+on
+nkh
+high functioning autism
+acute intermittent porphyria
+cystic fibrosis
+asd
+dlb
+amd
+olivopontocerebellar atrophy
+stemi
+acute lymphoblastic lymphoma
+iha
+ali
+uri
+vhf
+yunis varon syndrome
+lymphogranuloma venereum
+mrsa
+inclusion body myositis
+sps
+fasds
+emotionally disturbed
+periventricular leukomalacia
+becker muscular dystrophy
+jas
+cpm
+respiratory tract infection
+dsps
+apraxia of speech
+adhd
+upper respiratory infection
+avms
+cfids
+sspe
+lcm
+central pontine myelinolysis
+tth
+vvc
+age related macular degeneration
+hpv infection
+ards
+extrapontine myelinolysis
+monomelic amyotrophy
+lfa
+fma
+mid
+postpolio progressive muscular atrophy
+atrial fibrillation
+xlsa
+mma
+behaviorally handicapped
+fmd
+bh
+tourette syndrome
+hantavirus pulmonary syndrome
+gvhd
+sws
+ffi
+hmsn type iii
+corticobasal ganglionic degeneration
+neural tube defect
+vd
+measles mumps rubella varicella
+asds
+das
+cluster headache
+interstitial cystitis painful bladder syndrome
+chronic inflammatory demyelinating polyneuropathy
+fragile x syndrome
+chronic prostatitis chronic pelvic pain syndrome
+htn
+congenital erythropoietic porphyria
+retinopathy of prematurity
+neurofibromatosis type 2
+pct
+hereditary spastic paraplegia
+beb
+tcs
+vp
+all
+osa
+coronary artery disease
+autism spectrum disorders
+fatal familial insomnia
+variant creutzfeldt jakob disease
+dts
+ip
+major depressive disorder
+opc
+multi drug resistant tuberculosis
+neuronal migration disorders
+diffuse idiopathic skeletal hyperostosis
+dengue fever
+pls
+aip
+trainable mentally handicapped
+gbs disease
+dh
+capd
+yss
+retrolental fibroplasia
+hypertension
+aas
+ttp
+neonatal abstinence syndrome
+hib disease
+q fever
+pps
+hfa
+tmh
+hfmd
+wilson disease
+bpd
+group b streptococcal disease
+npc1
+mcs
+chronic fatigue syndrome
+benign prostatic hyperplasia
+klippel trenaunay syndrome
+pelizaeus merzbacher disease
+fetal valproate syndrome
+plmd
+alcohol related birth defects
+cofs
+systemic lupus erythematosus
+excessive daytime sleepiness
+repetitive motion disorders
+borderline personality disorder
+lymphocytic choriomeningitis
+wd
+chd
+hemorrhagic fever with renal syndrome
+vsd
+bss
+incontinentia pigmenti
+kearns sayre syndrome
+tmr
+considerable conduct disorder
+neurofibromatosis type 1
+panthothenate kinase associated neurodegeneration
+multi infarct dementia
+icf syndrome
+low functioning autism
+nmo
+severe acute respiratory syndrome
+st elevation myocardial infarction
+haemophilus influenzae type b disease
+thoracic outlet syndrome
+rind
+ichthyosis bullosa of siemens
+cfs
+attention deficit disorder
+csa
+traumatic brain injury
+mmrv
+machado joseph disease
+deep vein thrombosis
+lambert eaton myasthenic syndrome
+hcp
+epidermal nevus syndrome
+carbohydrate deficient glycoprotein syndrome
+hoh
+jra
+crimean congo haemorrhagic fever
+hearing impaired
+fae
+stiff person syndrome
+ad
+arteriovenous malformations
+obsessive compulsive disorder
+gerd
+cms
+a t
+pervasive developmental disorder not otherwise specified
+crps
+rad
+amyotrophic lateral sclerosis
+pervasive developmental disorder
+zbls
+cerebral autosomal dominant arteriopathy with sub cortical infarcts and leukoencephalopathy
+eastern equine encephalitis
+variegate porphyria
+gan
+emh
+mld
+tethered cord syndrome
+kts
+cf
+tuberculosis
+congenital disorder of glycosylation
+polycystic ovarian syndrome
+smei
+pd
+cach
+mdd
+congenital central hypoventilation syndrome
+diabetes mellitus
+af
+gastrointestinal bleeding
+tropical spastic paraparesis
+abcd syndrome
+sod
+aaa
+multiple system atrophy
+ntds
+chiari malformations
+benign essential blepharospasm
+apa
+subacute sclerosing panencephalitis
+muscular dystrophy
+ncl
+vcjd
+glossopharyngeal neuralgia
+nph
+inflammatory bowel disease
+gib
+dementia with lewy bodies
+pots
+central nervous system hypomyelination
+empty sella syndrome
+tses
+ocd
+hi
+ic pbs
+oppositional defiant disorder
+reye syndrome
+paruresis
+gss disease
+pkan
+vhl
+sle
+familial spastic paraparesis
+msdd
+pbc
+emr
+jhd
+dejerine sottas syndrome
+ahc
+peroxisome biogenesis disorders
+wilms tumor aniridia genitourinary anomalies and mental retardation syndrome
+infantile neuroaxonal dystrophy
+multi sensory developmental delays
+lgv
+graft versus host disease
+cpps
+adult refsum disease
+primary sclerosing cholangitis
+mjd
+complex regional pain syndrome
+behaviorally emotionally handicapped
+msa
+sm
+idiopathic thrombocytopenic purpura
+ktw syndrome
+mbd
+tbi
+dengue hemorrhagic fever
+ens
+aos
+psp
+lesch nyhan syndrome
+cerebro oculo facio skeletal syndrome
+progressive multifocal leukoencephalopathy
+shaken baby syndrome
+thrombotic thrombocytopenic purpura
+rmds
+cmt disease
+bse
+neurodegeneration with brain iron accumulation
+dvt
+progressive supranuclear palsy
+venereal disease
+pmd
+cep
+cdg
+cad
+dig
+tmj tmd
+ataxia telangiectasia
+alzheimer disease
+ks
+port wine stain
+cgbd
+pbd
+nas
+je
+binswanger disease
+minimal brain dysfunction
+pdd nos
+antiphospholipid syndrome
+nf2
+end stage renal disease
+fas
+ess
+fetal alcohol syndrome
+transient ischemic attack
+bv
+wee
+spina bifida
+young simpson syndrome
+lks
+mpd
+porphyria cutanea tarda
+velo cardio facial syndrome
+lns
+parkinson disease
+chronic pelvic pain syndrome
+cp cpps
+western equine encephalitis
+guinea worm disease
+delirium tremens
+cipa
+query fever
+central sleep apnea
+multiple sclerosis

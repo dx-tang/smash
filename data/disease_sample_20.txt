@@ -1,0 +1,40 @@
+PACG
+primary angle closure glaucoma
+cap
+angiotensin-converting enzyme inhibitor captopril
+TTGA
+tissue trans-glutaminase antibody
+IL-6 receptor α chain
+interleukin-6 receptor α-chain
+FMLP
+formyl-methionyl-leucylphenylalanine
+N-ANA
+N-acetyl-neuraminic acid
+mTF
+tissue factor
+RISP
+Rieske iron-sulphur protein
+Msl-2
+male-specific lethal-2
+bid
+bis in diem
+Tpl-2
+tumor progression locus-2
+CRH R1
+corticotropin releasing hormone receptor 1
+Iri
+irinotecan
+SHOs
+senior house officers
+ROC
+receptor-operated channel
+beta 2M
+beta2-microglobulin
+AAV
+adenovirus-associated virus
+NGF-R
+NGF receptors
+d-Tc
+d-tubocurarine
+prealb
+pre-albumin

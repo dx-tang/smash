@@ -1,0 +1,2000 @@
+CE-ICPMS
+capillary electrophoresis-inductively coupled plasma mass spectrometry
+RORγ-t
+retinoic acid receptor-related orphan receptor gammaT
+TRAILR1
+tumor necrosis factor-related apoptosis-inducing ligand receptor-1
+CIDR device
+controlled internal drug release device
+non-HDLC
+non-high-density-lipoprotein cholesterol
+CCR-2
+CC chemokine receptor-2
+SIP
+Selectively infective phage
+Reg-I
+regenerating gene I
+c-myc
+cellular myc
+CNL
+clinical nurse leader
+pre-TCR alpha
+pre-T-cell-receptor α
+field-emission SEM
+field emission scanning electron microscopy
+PRP-D
+diphtheria toxoid
+pre-T-ALL
+precursor T cell acute lymphoblastic leukaemia
+MHA
+membrane hypothesis of aging
+A-P
+aortopulmonary
+TGFBI
+transforming growth factor-beta-induced gene
+SalA
+salivaricin A
+MC1R
+melanocortin-1 receptor
+CV11974
+receptor antagonist
+HTLV
+human T-cell lymphotrophic virus
+VEE
+Venezuelan equine encephalitis virus
+A-PTT
+activated partial thromboplastin time
+BRCA 2
+breast-cancer susceptibility gene-2
+ASA III
+American Society of Anesthesiologists physical status III
+RAM
+Restricted Access Media
+BCS class 3
+Biopharmaceutics Classification System Class III
+UV/Vis
+ultraviolet visible
+MYST4
+MOZ, YBF2/SAS3, SAS2 and TIP60 protein 4
+Sso
+Shigella sonnei
+β-ERKO mouse
+oestrogen receptor β knock out mouse
+CSC
+cysteine-synthase complex
+alpha-methyl-acyl CoA racemase
+alpha-methyl acyl-coenzyme-A racemase
+LHCII
+light-harvesting complex II
+CMPase
+cytidine monophosphatase
+IL-13Ralpha2
+interleukin-13 receptor-α 2 subunit
+sox-9
+Sry-box 9
+CNLD
+chronic neonatal lung disease
+G-protein betagamma-subunit
+GTP binding protein βgamma-subunit
+TCRαβ
+T cell receptor alpha/beta
+rIL17
+recombinant interleukin 17
+hsp90α
+heat shock protein 90alpha
+PLC gamma1
+phospholipase-Cgamma1
+ECV-304
+endothelial cell line
+ERCC1
+excision repair cross-complementation 1
+SRsys
+systolic strain-rate
+IVGTTS
+intravenous glucose tolerance tests
+ApoL-1
+apolipoprotein L-I
+HD
+hormone-dependent
+PLC-δ(1)
+phospholipase-C δ 1
+sICU
+surgical intensive care unit
+w/v
+percent weight in volume
+TCRV β
+T cell receptor beta-chain variable region
+TF
+transferrin
+antiIL-18 mAb
+antiIL-18 monoclonal antibody
+ERβ knock out
+oestrogen receptor-β knock-out
+B-b
+beta blockers
+IHT
+interhospital transfer
+NR
+nutrient restriction
+NM
+normorphine
+V. crabro
+Vespa crabro
+pol α
+polymerase alpha
+x1
+for one
+S-100b protein
+S-100beta protein
+BACE-2
+β-site amyloid precursor protein cleaving enzyme 2
+MCC
+metastatic colorectal cancer
+DGH
+District General Hospitals
+EGD
+upper endoscopy
+IVIg
+intravenous immunoglobulins
+VP1
+viviparous1
+I.T.A.
+International Tuberculosis Association
+INS-1E cell line
+insulinoma-1E cell line
+SCLIP
+SCG10-like protein
+TCDD
+tetrachlorodibenzo-p-dioxin
+ibq
+illness behaviour questionnaire
+pp65 antigenaemia
+phosphoprotein 65 antigenemia
+etd
+eustachian tube dysfunction
+α ERKO
+estrogen receptor-alpha knockout
+DSP
+digital signal processing
+BV
+bee venom
+cxr
+chest X-ray
+TCR-γδ+
+T-cell-receptor-gamma delta-positive
+P. camembertii
+Penicillium camembertii
+IP3R
+inositol trisphosphate receptor
+n.Acc.
+nucleus accumbens
+UNC40
+uncoordinated protein 40
+SGP
+stratum griseum profundum
+ISO
+International Standards Organization
+ADCC
+cytoxicity
+MPA
+microscopic polyarteritis
+MDCK cell
+Madin-Darby canine kidney cell
+IL-13Rα1 chain
+interleukin-13 receptor α1 chain
+Cis-Pt
+cisplatin
+IL1 alpha
+interleukin 1 α
+IL4R α
+IL4 receptor α-chain
+NPS
+non-point source
+Csk-homologous kinase
+C-terminal Src kinase homologous kinase
+HGM
+human gene-mapping
+WCC
+white cell count
+PLAGA
+polylactide-coglycolide
+PLCδ1
+phospholipase C-δ 1
+NPO
+nucleus pontis oralis
+HSP 72
+heat shock protein-72
+TGF β R I
+transforming growth factor β receptor 1
+C-HDL
+high density lipoprotein cholesterol
+NP
+nasal polyp
+mMCP-1
+mouse mast cell protease-1
+OH-Cbl
+hydroxocobalamin
+beta-APP-cleaving enzyme-2
+β amyloid precursor protein cleaving enzyme 2
+EGD
+endoglucanase D
+IL-4Rα chain
+IL-4 receptor α chain
+ASQ
+autism screening questionnaire
+WL
+work load
+anti-β-2-GP1 antibody
+anti-beta2-glycoprotein-I antibody
+Oct-1
+organic cation transporter-1
+ICP
+insecticidal crystal protein
+nTg
+non-transgenic
+Minneapolis VA Medical Center
+Minneapolis Veterans' Administration Medical Center
+DEDTC
+diethyldithiocarbamate
+DsCPV-1
+Dendrolimus spectabilis cypovirus-1
+msl
+lipomatosis, multiple symmetric
+IL12 receptor β 2
+interleukin 12 receptor beta2
+IL4R α
+IL-4 receptor alpha subunit
+Aβ-40
+β-amyloid 40
+RPE
+relative predispositional effect
+MEGX
+monoethylglycine-xylidide
+MRC
+magnetic resonance colonography
+beta-2-m
+beta-2-microglobulin
+AES
+anterior ectosylvian sulcus
+μ-H chain
+mu heavy chain
+huIFN-alpha2b
+human interferon α 2b
+IGF-I-R
+insulin-like growth factor I receptor
+long-span resin-bonded FPD
+long-span resin-bonded fixed partial denture
+TEHV
+tissue engineered heart valve
+EIIMtl
+enzyme II mannitol
+IMT
+inspiratory muscle training
+CMF
+conditioned medium factor
+IGFET
+insulated-gate field-effect transistor
+GM-CSF receptor alpha subunit
+granulocyte-macrophage-colony-stimulating factor receptor α subunit
+alm
+acral lentiginous melanoma
+APW
+artificial pond water
+IB
+inclusion body
+G protein γ subunit
+GTP-binding protein γ subunit
+Mthfr
+methylenetetrahydrofolate reductase
+MSN
+Microsoft Network
+Vm
+membrane
+HPV16
+Human papillomavirus type-16
+SSDs
+source-to-surface distances
+TCAD
+thiazole-4-carboxamide adenine dinucleotide
+T-cell receptor-γδ +
+T-cell-receptor gammadelta-positive
+HMPAO
+hexamethylpropylene amineoxime
+IL2R-α
+interleukine-2 receptor α subunit
+IL-3 receptor-alpha
+interleukine-3 receptor alpha
+sAA
+severe aplastic anemia
+EMP
+external membrane potential
+α-2 M
+α 2-macroglobulin
+H4 receptor
+histamine H(4)-receptor
+S. enterica ssp. arizonae
+Salmonella enterica subspecies arizonae
+LHR
+Liquid-holding recovery
+F1
+first formant
+pre-IL-1 beta
+pre-interleukin-1 beta
+transfer messenger RNA
+transfer messenger ribonucleic acid
+ALPase
+alkaline phosphatase
+anti-IL-4R antibody
+antiinterleukin-4 receptor antibody
+T-cell-receptor-gammadelta+
+T cell receptor gammadelta-positive
+PTCER
+pulmonary transcapillary escape rate
+Hb J-Daloa
+haemoglobin J-Daloa
+SDDS
+sodium dodecylsulphate
+type 2 CRH receptor
+corticotropin releasing hormone receptor 2
+BTA24
+Bos taurus autosome 24
+IL13 receptor α2
+interleukine 13 receptor alpha 2 chain
+At
+astatine
+mFISH
+multifluor fluorescence in situ hybridization
+NTDMA
+nitrodimethylamine
+pST
+porcine ST
+BoHV-3
+bovine herpes virus 3
+FPL
+feline pan-leukopenia
+AKP
+alkalinephosphatase
+GABAR
+gamma-amino butyric acid type A receptor
+GTF
+Gunther Tulip filter
+rMuIFNα
+recombinant murine interferon alpha
+ADAMTS-2
+a disintegrin and metalloproteinase with thrombospondin motif-2
+GN-RH
+gonadotropin-releasing hormones
+VEGFR2
+vascular endothelial growth factor receptor-2
+Vκ
+κ light-chain variable region
+ATP7B
+ATPase 7B
+GGPT-1
+geranylgeranyl protein transferase 1
+ER β-specific
+oestrogen receptor β specific
+IHD
+in-center haemodialysis
+Oct binding factor 1
+octamer binding transcription factor 1
+LDDST
+low-dose dexamethasone suppression test
+H2RA
+histamine-type II receptor antagonist
+TEP
+total extraperitoneal repair
+FP
+fœto protein
+IL12Rβ1
+interleukin 12 receptor β1
+G(i)
+inhibitory G protein
+ROS
+Rat osteosarcoma
+APOC-3
+apolipoprotein C3
+OSN
+olfactory sensory neuron
+anti-TBM disease
+antitubular basement membrane disease
+DAN
+diazoacetyl-DL-norleucine methyl ester
+IL-3 receptor α
+interleukine-3 receptor-α
+NM-MHC
+nonmuscle myosin heavy chain
+TGF β R II
+transforming growth factor-β type II receptor
+CE
+esterified cholesterol
+SPD
+Sprague Dawley
+SnoN
+ski-related novel protein N
+SKI-1
+subtilisin kexin isozyme 1
+IL-13 receptor alpha 2
+interleukine 13 receptor α 2 subunit
+PRIST
+paper radioimmunosorbent test
+IL-13 receptor α 2 chain
+interleukine 13 receptor α 2 chain
+GLRA1
+glycine receptor
+vim
+vimentin
+TRIM 5α
+tripartite motif 5α
+dsm
+degradable starch microspheres
+SS
+homozygous sickle-cell
+Hb Bart's hydrops
+hemoglobin Bart's hydrops
+Ig κ light chain
+immunoglobulin kappa-light chain
+FFPE
+formalin-fixed paraffin embedded
+REP-1
+Rab Escort Protein-1
+UNC93
+uncoordinated protein 93
+stx II
+Shigatoxin II
+QRT-PCR assay
+quantitative real-time polymerase-chain-reaction assay
+HDL particle size
+high-density-lipoprotein particle size
+HGT-1
+human gastric tumor cell line 1
+SHRsp
+spontaneously hypertensive rats of the stroke prone strain
+TGFbeta-R-II
+transforming growth factor-β receptor type II
+MNNG
+N-methyl N'-nitro-N-nitrosoguanidine
+MRV
+minute respiration volume
+PASMC
+pulmonary artery smooth muscle cell
+Myo5a
+myosin Va
+PPAR-γ 2
+peroxisome proliferator activated receptor-γ2
+NS
+non-synonymous
+CPEB-4
+cytoplasmic polyadenylation element binding protein-4
+sTNF-RI
+soluble tumor necrosis factor-receptor 1
+β2-M value
+β2 microglobulin value
+fach
+forceps to aftercoming head
+anti-HTLVI
+anti-human T cell lymphotrophic virus type 1 antibody
+cAMP response element-binding protein 1
+cyclic adenosine monophosphate response element binding protein 1
+preM
+pre-menopausal
+ECA
+external carotid artery
+beta2-GP1
+β2 glycoprotein-1
+PPARgamma 2
+peroxisome proliferator-activated receptor-γ-2
+CTLA-2 α
+cytotoxic T-lymphocyte antigen-2 α
+N-myc downstream regulated gene 2
+neuroblastoma myelocytomatosis oncogene downstream-regulated gene 2
+TH1
+type 1 helper T cell
+UV/vis
+ultra-violet-visible
+KK
+kallikrein
+TGFbeta inhibitory element
+transforming growth factor-β inhibitory element
+Streptococcus lactis ssp. lactis
+Streptococcus lactis subspecies lactis
+Rh-factor
+rhesus factor
+LUMO
+lowest unoccupied molecular orbital
+PV
+parasitophorous vacuoles
+nve
+neovascularization elsewhere
+COR
+cervico-ocular reflex
+S-LPP
+stress leak point pressure
+R-PTPmu
+receptor-like protein-tyrosine phosphatase mu
+Hb Hopkins-I
+Haemoglobin Hopkins-I
+QMPSF
+quantitative multiplex polymerase chain reaction of short fluorescent fragments
+CB(2)r
+cannabinoid type-2 receptor
+PPy
+Polypyrrole
+DTR
+detorubicin
+KAP-1
+krueppel-associated box-associated protein 1
+BIVAD
+biventricular assist device
+cAPs
+compound action potentials
+S-AP
+serum alkaline phosphatase
+SSA
+single-strand annealing
+preβ1 HDL
+pre beta 1 high-density lipoprotein
+GDF10
+growth/differentiation factor-10
+TCRG
+T cell receptor gamma
+anti-IL 1alpha monoclonal antibody
+antiinterleukin-1alpha monoclonal antibody
+ADAM-28
+a disintegrin and metalloproteinase 28
+FE-1
+faecal elastase 1
+NLRP3
+nod-like receptor protein 3
+I κ B α
+inhibitor-kappaB alpha
+poly-(ADP-ribose) polymerase
+poly-adenosine diphosphate-ribose polymerase
+D. athabasca
+Drosophila athabasca
+HKAFO
+hip-knee-ankle-foot orthosis
+sPLA2-IIA
+secretory phospholipase A2 group IIa
+HVC
+high vocal centre
+I kappaB alpha
+inhibitor κ B α
+rhIGF 1
+recombinant human insulin-like growth factor-1
+3-D CT scan
+3-dimensional computed tomography scan
+OB
+osteoblasts
+IL7Ralpha
+IL-7R alpha chain
+TβRII
+transforming growth factor beta receptor II
+RT
+nucleus rotundus
+POE
+Polyoxyethylene
+PLC gamma-1
+phospholipase Cγ-1
+CDH4
+cadherin-4
+cvvh
+continuous venovenous hemofiltration
+UNa
+urinary sodium excretion
+SQNYPIVQ
+seryl-glutaminyl-asparaginyl-tyrosyl-prolyl-isoleucyl-valyl-glutamine
+IH
+intracranial haematoma
+ka
+association
+ENT
+equilibrative nucleoside transporter
+PV
+postvaccination
+NHase
+nitrile hydratase
+IL7
+interleukin-7
+Abeta-40
+β-amyloid 1-40
+nsf
+national science foundation
+PAIS
+partial-androgen-insensitivity syndrome
+67Ga-citrate
+67gallium citrate
+CFUS
+colony-forming units-spleen
+MNM
+maternal near-miss
+Gc
+glucocorticoid
+IL-2Ralpha
+interleukin-2 receptor α subunit
+ITLC
+instant thin layer chromatography
+B. intestinalis
+Bacteroides intestinalis
+VDRL
+venereal disease research laboratory
+RPTP ζ
+receptor-like protein tyrosine phosphatase zeta
+Toll/interleukin-1 receptor domain-containing adaptor inducing IFN-β
+toll-interleukin 1 receptor domain-containing adapter-inducing interferon β
+JJ
+jejuno-jejunostomy
+VLDL-R
+VLDL receptor
+anti-IL 1R antibody
+anti-IL1 receptor antibody
+NS
+nervous system
+Slp1
+synaptotagmin-like protein 1
+gamma-GT
+gamma-glutamyl-transferase
+Gβ
+G protein beta subunit
+brady-tachy syndrome
+bradycardia/tachycardia syndrome
+G α
+GTP-binding protein alpha-subunit
+hCG free beta subunit
+human chorionic gonadotropin, free beta subunit
+α2 M
+alpha2-macroglobulin
+pst
+post-stimulus time
+CMA
+certified medical assistant
+SACI
+Staphylococcus aureus Cowan I
+ecto-NDPK
+ectonucleoside diphosphokinase
+A
+thermodynamic activity
+N. girellae
+Neobenedenia girellae
+CRS
+Cambridge Reference Sequence
+LVW/BW
+ratio of left ventricular weight to body weight
+apo epsilon 4
+apolipoprotein epsilon 4
+TAK1 binding protein-1
+TGFbeta-activated kinase 1-binding protein-1
+Apo ε4
+apolipoprotein ε4
+GMS
+glycerylmonostearate
+PDGFRα
+platelet-derived growth factor receptor alpha
+TB
+tissue basophil
+UA
+urinary amylase
+CDE
+convection dispersion equation
+MKK-1
+mitogen activated protein kinase kinase-1
+T4S system
+type-4 secretion system
+AMPAR
+alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor
+BCL2 protein
+B cell leukaemia/lymphoma 2 protein
+rNV-VLP
+recombinant Norwalk virus-virus like particle
+ROR-γ-T
+retinoic acid receptor-related orphan receptor gamma T
+NOS-2
+inducible nitric oxide synthase
+CaCl2
+calcium chloride
+alpha-methylacyl CoA racemase
+α-methyl-acyl-coenzyme-A racemase
+Colo.
+Colorado
+rHu-IL-5
+recombinant human interleukin 5
+ACE-I
+angiotensin-converting enzyme inhibition
+AP
+anteroposterior
+SAS
+supravalvular aortic stenosis
+PLB
+Primary lymphoma of bone
+Apo CII
+apolipoprotein C2
+DPMS
+dolichyl phosphate-mannose synthase
+g/dl
+grams per deciliter
+nm-MHC
+nonmuscle myosin heavy chain
+IFNalfa-2b
+interferon alfa-2b
+FG fibre
+fast-twitch glycolytic fibre
+PKC-alpha protein
+protein kinase Calpha protein
+SER
+enhancement ratios
+T-cell-receptor-gamma delta +
+T-cell-receptor γδ-positive
+Dppa1
+developmental pluripotency associated 1
+TTHA
+triethylene tetramine hexaacetic acid
+IL1 receptor associated kinase
+interleukin 1 receptor-associated kinase
+ORF-2
+open reading frame 2
+MCA
+minimal cross-sectional area
+NPCR
+normalized protein catabolic rate
+AVPD
+atrioventricular plane displacement
+SBT
+sea buckthorn
+PABP2
+poly (A) binding protein II
+IAANS
+6-((4-((iodoacetyl)amino)phenyl)amino)- 2-naphthalenesulfonic acid
+PPDK
+pyruvate phosphate dikinase
+Qp/Qs
+pulmonary to systemic blood flow
+TROSY
+transverse relaxation-optimized spectroscopy
+RH
+radiation hybrid
+ASAP
+as soon as possible
+ER-β knockout
+estrogen receptor-β knockout
+palpa
+psycholinguistic assess of language proc in aphasia
+EDF
+erbium-doped fibre
+TAC
+Total antioxidant capacity
+r-EEG
+resting electroencephalography
+LD
+loading dose
+beta-Lg
+beta-lactoglobulin
+IL-7R α
+interleukine-7 receptor alpha
+HLA class I-specific
+human leukocyte antigen class I-specific
+NFκB-repressing factor
+nuclear factor-kappa B-repressing factor
+Rab1A
+ras-related GTP-binding protein 1a
+tat
+thematic apperception test
+PMP
+pyridoxamine phosphate
+Ccr-2
+C-C motif chemokine receptor 2
+TCR-gamma delta+
+T-cell receptor-gamma delta-positive
+Fc-γ-RII
+Fcγ-receptor II
+IL-1 β converting enzyme inhibitor
+interleukin-1 β-converting enzyme inhibitor
+LDI-TOFMS
+laser desorption-ionisation time of flight mass spectrometry
+GTP-cyclohydrolase II
+guanosine triphosphate-cyclohydrolase II
+j-tube
+jejunostomy tube
+EAD
+extracranial arterial disease
+ps
+protein synthesis
+RiCof
+ristocetin cofactor
+WHP
+workplace health promotion
+FP
+first-pass
+COL1A1
+collagen type I-alpha1
+dPAG
+dorsal periaqueductal gray matter
+M2 receptor
+muscarinic M2 receptor
+DEDTC
+diethyl-dithio-carbamate
+T. dryocopi
+Toucanectes dryocopi
+OPT
+optical projection tomography
+ATP-ase
+adenosine 5'-triphosphatase
+PARP
+cleavage of poly-(ADP-ribose)-polymerase
+cZ
+cis-zeatin
+Tem
+effector memory T cell
+CV
+cerebro-vascular
+17OH-Preg
+17-hydroxypregnenolone
+PGC1alpha
+peroxisome proliferator-activated receptor gamma co-activator-1alpha
+WSS
+syndrome
+rh-GMCSF
+recombinant human granulocyte-macrophage colony stimulating factor
+aP
+available P
+MDR
+multifactor dimensionality reduction
+COC2
+ovarian cancer cell line 2
+NiTi archwire
+nickel titanium archwire
+CX43
+connexin 43
+rec B
+recombination B
+(19)F MRI
+19F magnetic resonance imaging
+SLH
+S-layer homology
+FSs
+febrile seizures
+STFT
+short time Fourier transform
+SEP
+socio-economic position
+NONMEM
+non-linear mixed-effects model
+ELA
+elastase
+PT
+proton transfer
+Vtg2
+vitellogenin II
+TSC
+tumour stem cell
+GCA
+giant cell arteritis
+Non-LTR
+non-long terminal repeat
+Nmt1
+no message in thiamine-1
+high-resolution magic-angle-spinning NMR
+high-resolution magic-angle-spinning nuclear magnetic resonance
+ms
+median survival
+ZVL
+Zoonotic visceral leishmaniasis
+HSP90β
+heat-shock protein 90β
+ARP
+affected relative pair
+non-24h sleep-wake syndrome
+non-24-hour sleep/wake syndrome
+IL-1βR
+interleukine-1β receptor
+ERβ KO mouse
+estrogen receptor β knockout mouse
+TGF b1
+TGF-beta(1)
+graft vs host disease
+graft-versus-host-disease
+ubc2
+ubiquitin-conjugating enzyme 2
+bd
+batten's disease
+GVHR
+graft-versus-host reactions
+poly-(ADP-ribose)
+polyadenosine-diphosphate-ribose
+T-reflex
+tendon reflex
+FCD type IIb
+focal cortical dysplasia type IIB
+SHP
+src homology-2 domain-containing protein-tyrosine phosphatase
+SNpr
+substantia nigra pars reticulata
+TCC
+trans-cervical cell
+x2
+twice
+EPA
+erythroid potentiating activity
+hRPE
+human retinal pigment epithelial cells
+CTS
+cataract Shionogi
+PLC-β4
+phospholipase C-β 4
+C. apicola
+Candida apicola
+SPMS
+secondary progressive MS
+MB
+microbubble
+MALDI/TOF/MS
+matrix assisted laser desorption ionization time-of-flight mass spectrometry
+WMS
+Williams' syndrome
+ROMK
+renal outer-medullary potassium channel
+DNP
+dinitrophenol
+HSP90
+90 kDa heat-shock protein
+CNSHA
+chronic non-spherocytic hemolytic anemia
+OATP2
+organic anion transporting polypeptide 2
+IL 1
+interleukin-1
+O. europea
+Olea europaea
+K(d)
+distribution coefficients
+CD
+carbidopa
+DS-PG
+distearoyl phosphatidylglycerol
+ehba
+extrahepatic biliary atresia
+toll-interleukin-1 receptor domain-containing adaptor inducing IFN-beta
+toll-interleukin-1 receptor domain-containing adapter-inducing interferon-beta
+IGF-R
+insulin-like growth factor receptor 1
+NPDS
+non-penetrating deep sclerectomy
+meg
+megacycle
+PPARγ-2
+peroxisome proliferator activated receptor γ2
+HIV risk
+human immunodeficiency virus risk
+stearoyl-CoA desaturase-2
+stearoyl coenzyme A desaturase 2
+anti-HIV 1 antibody
+anti-human immunodeficiency virus type 1 antibody
+Hordeum vulgare ssp. spontaneum
+Hordeum vulgare subspecies spontaneum
+PDH
+pigment dispersing hormone
+lap
+leucine aminopeptidase
+G protein γ subunit
+GTP binding protein γ-subunit
+hCAT2B
+human cationic amino acid transporter 2B
+DTB
+2,4-dithiobiuret
+CLV1
+clavata 1
+G protein betagamma subunit
+GTP binding protein beta gamma-subunit
+HERV-K
+human endogenous retrovirus K
+A beta P
+amyloid beta peptide
+DDM
+dodecyl maltoside
+LGMD1C
+muscular dystrophy
+T cell receptor/CD3 complex
+T cell receptor-cluster of differentiation 3 complex
+PLA1
+phospholipase A(1)
+CHCS
+crystalloid hyperkalemic cardioplegic solution
+S--R
+stimulus-response
+Ire1-α
+inositol-requiring enzyme 1alpha
+N. affinis
+Neosinocalamus affinis
+HRM curve
+high-resolution melting curve
+rt
+radiotherapy
+tert-butylpyridine
+tertiary butylpyridine
+IHP
+individualized health plan
+IL-5R-α
+interleukine 5 receptor alpha-chain
+DHAQ
+dihydroxyanthraquinone
+5'GMP
+guanosine 5'-monophosphate
+PAG
+periaqueductal gray
+beta-LG
+beta lactoglobulin
+B2-M
+β2-microglobulin
+cross-polarisation magic-angle-spinning NMR spectroscopy
+cross polarization magic-angle spinning nuclear magnetic resonance spectroscopy
+Pn
+Net photosynthesis
+Lm
+membrane
+OB
+oligoclonal band
+BSER
+brain stem evoked response
+Ki-Ras
+Kirsten-Ras
+LS
+Lichen striatus
+SVM
+support vector machine
+N0
+node negative
+Nrg-1
+neuregulin 1
+TABM
+antigen-binding molecules
+SRBCs
+sheep red blood cells
+DI
+dose intensity
+SHP2
+src homology-2 domain-containing protein tyrosine phosphatase-2
+LCMRGlu
+local cerebral metabolic rates for glucose
+CMT1X
+X-linked Charcot-Marie-Tooth disease
+cross-polarisation magic-angle spinning NMR
+cross-polarization magic angle spinning nuclear magnetic resonance
+FSC
+light scatter
+Pnc
+pneumococcal
+T8
+thoracic vertebra 8
+CuZn-super oxide dismutase
+copper-zinc super-oxide dismutase
+IL5 receptor-α
+interleukine-5 receptor alpha
+MDR-related protein 1
+multidrug resistance related protein 1
+MALDITOFMS
+matrix assisted laser desorption ionisation time of flight mass spectrometry
+AHSV8
+African horse-sickness virus serotype 8
+Ap(5)A
+pentaphosphate
+IGF-II mRNA binding protein 1
+insulin-like growth factor-II mRNA-binding protein 1
+RPTPmu
+receptor-like protein tyrosine phosphatase-μ
+OHP
+hydroxyprogesterone
+ZAP70
+zeta-associated protein 70
+NECL1
+nectin-like protein 1
+TLDS
+thermoluminescent dosimeters
+CamKK-beta
+calcium calmodulin-dependent protein kinase kinase beta
+TCT
+thyrocalcitonin
+HT
+hypertensive subjects
+VitB1
+vitamine B1
+bg
+bite guard
+UCAD
+unstable coronary artery disease
+NJ
+new jersey
+CT antigen
+cancer testis antigen
+serum Tg level
+serum thyroglobulin level
+VO2peak
+peak aerobic capacity
+MB calyx
+mushroom-body calyx
+INB
+inter-nuclear bridging
+PDGF-B
+platelet-derived growth factor
+Pkp-4
+plakophilin 4
+metho
+hydroxypropylmethylcellulose
+MELC
+murine erythroleukemia cell
+CSLM
+confocal scanning laser microscopy
+C(max)
+peak plasma concentrations
+type-I IGF receptor
+type I insulin like growth factor receptor
+PN2
+postnatal day 2
+IL-11-Rα
+IL-11 receptor-alpha
+anti-beta2GPI antibody
+anti-β 2 glycoprotein 1 antibody
+K(ATP) channel
+ATP-dependent K+ channel
+Fgfr3
+fibroblast growth factor receptor III
+N-terminal pro brain-natriuretic peptide
+amino terminal pro-brain natriuretic peptide
+CVVHD
+continuous venovenous haemodialysis
+IL2R-α
+interleukine 2 receptor alpha subunit
+NP
+nanoparticle
+RuBP
+ribulose bisphosphate
+IL12 receptor β1
+interleukin 12 receptor β1
+α-2M
+alpha2 macroglobulin
+NPY-IR
+neuropeptide Y immunoreactive
+123-I-MIBG
+iodine 123 meta-iodobenzylguanidine
+ISSR
+inter-simple sequence repeats
+ART
+acoustic reflex threshold
+OB-GYN
+obstetrician-gynaecologist
+PD
+peritoneal dialysate
+we
+western encephalomyelitis
+T-type
+low-voltage-activated
+β2GPI
+β2 glycoprotein-I
+IL3 receptor alpha chain
+interleukine-3 receptor alpha-chain
+antiIL-12 MAb
+anti-interleukin 12 monoclonal antibody
+ETYA
+eicosatetraynoic acid
+BV
+beta-chain variable
+dp/dtmax
+left ventricular pressure rise
+OS
+One-Step
+PDGF-β-R
+platelet-derived-growth-factor beta-receptor
+gpc
+gel permeation chromatography
+anti-β2GP1 antibody
+anti-β(2) glycoprotein-I antibody
+TTXs
+tetrodotoxin-sensitive
+SEC6
+Saccharomyces cerevisiae 6
+rh-TGFβ1
+recombinant human transforming growth factor-β 1
+TCR-gamma-delta(+)
+T-cell-receptor-gammadelta-positive
+FMO
+flavin-monooxygenase
+hsp90
+heat-shock protein 90
+ER-β
+estrogen receptor beta
+amino acyl tRNA
+aminoacyl-transfer-ribonucleic-acid
+TP
+thromboxane A2/prostaglandin endoperoxide
+LA
+left atrium
+gc
+gas chromatography
+TN
+triple negative
+FETi
+fast extensor tibiae
+transient receptor potential A1
+transient receptor potential ankyrin 1
+Abeta
+amyloid beta peptides
+FSIQ
+full scale IQ
+R-PTP-ψ
+receptor-like protein tyrosine phosphatase ψ
+HAdVD
+human adenovirus type-D
+RPC
+relapsing polychondritis
+TUR-P
+transurethral prostatectomy
+MIA
+Metamemory in Adulthood
+DPTBA
+1,3-diphenyl-2-thiobarbituric acid
+CE-ICPMS
+capillary electrophoresis-inductively coupled plasma-mass spectrometry
+PGF2α
+prostaglandin F-2alpha
+anticolorectal carcinoma MAb
+anticolorectal carcinoma monoclonal antibody
+TGF β I
+transforming growth factor beta 1
+TRO
+thyroid-related orbitopathy
+HAdV-31
+human adenovirus serotype 31
+NMD
+nitroglycerine-mediated vasodilation
+IL-3Rα
+interleukine-3 receptor alpha
+SELDI-TOF-MS
+surface-enhanced laser desorption/ionization time of flight mass spectrometry
+rhTGF-beta 2
+recombinant human transforming growth factor-β2
+forkhead box class O3
+forkhead box class other 3
+anti-asGM1 Ab
+antiasialo GM(1) antibody
+acetyl coa
+acetyl coenzyme a
+FSH
+facioscapulohumeral muscular dystrophy
+pre-beta1-HDL
+preβ1-high-density lipoprotein
+SBE-βCyd
+sulfobutyl ether-beta-cyclodextrin
+hsp90alpha
+heat-shock protein 90-alpha
+NZB/W
+Zealand White
+RNA-arbitrarily primed PCR
+RNA arbitrarily-primed polymerase chain reaction
+IL7Ralpha
+interleukin-7 receptor alpha chain
+HCV negative
+hepatitis C virus-negative
+T-NK cell
+T natural killer-cell
+IL-13R alpha 1
+IL-13 receptor α1
+RBL-2H3
+rat basophilic leukaemia
+cCD
+cortical collecting ducts
+β-ERKO
+ER-beta knock-out
+m-RNA
+messenger ribonucleic acid
+GBC
+gadolinium-based contrast
+beta2GP1
+β2-glycoprotein I
+invariant V alpha 14
+invariant T cell receptor V alpha 14
+m-BACOD
+methotrexate, bleomycin, Adriamycin, cyclophosphamide, Oncovin and dexamethasone
+APO ε 4
+apolipoprotein epsilon4
+terminal dUTP nick-end labeling assay
+terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick end-labelling assay
+DMB
+dimethylbenzimidazole
+BAS-G
+Bath Ankylosing Spondylitis Global Score
+d/o
+disorder
+Cu/ZnSOD2
+Cu/Zn-superoxide dismutase 2
+Ph
+phentolamine
+SRS
+sub-retinal space
+BD
+bileduct
+Con-G
+Conantokin-G
+anti-IL10 mAb
+anti-IL10 monoclonal antibody
+IFN-gamma
+interferon-γ
+IGF-I-R
+insulin-like growth factor-I receptor
+TCL
+thermochemiluminescence
+antiIL-10 receptor MAb
+anti-interleukin-10 receptor monoclonal antibody
+b-hCG
+beta human chorionic gonadotropin
+vWF-A1 domain
+Von Willebrand factor-A1 domain
+leu
+leukocytes
+RHF
+right heart failure
+b.p.
+blood pressure
+TCES
+electrical stimulation
+NMOR
+NADPH:menadione oxidoreductase
+St Radboud University Hospital
+Saint Radboud University Hospital
+U.S.-based
+United States-based
+Hb C
+hæmoglobin-C
+ASA Grade I
+American Society of Anesthesiology grade I
+PCV-1
+Porcine circovirus type 1
+Ref-1
+redox factor 1
+GABA-B-R
+γ-amino-butyric acid type B receptor
+CCS
+clinical classifications software
+PPARγ-2
+peroxisome proliferator activated receptor-gamma 2
+LAS
+laboratory automation system
+SSS
+sugar-salt solution
+[(123)I]-MIBG
+iodine-123-metaiodobenzylguanidine
+DD
+differential display
+Co-Q10
+coenzyme Q 10
+fgr
+fetal growth retardation
+TIV
+Tipula iridescent virus
+MG state
+molten globule state
+MAPT
+microtubule associated protein Tau
+DSR
+Dynamic Spatial Reconstructor
+TF1
+thermophilic bacterium PS3
+NPD
+nitrogen/phosphorus detector
+NnT
+numbers-needed-to-treat
+STS
+steroid sulfatase
+TRG 4
+tumour regression grade 4
+AAIS
+Adolescent Alcohol Involvement Scale
+ROR gamma-t
+retinoic-acid-receptor-related orphan receptor gamma-t
+NOS-II
+nitric oxide synthase-2
+LECAM
+leukocyte-endothelial cell adhesion molecule
+DPP 1
+dipeptidyl-peptidase I
+vrs
+verbal rating scale
+GABA receptor agonist
+γ amino-butyric acid receptor agonist
+Fisher's PLSD test
+Fisher's protected least-significant-difference test
+HLA-DQ
+human leukocyte antigen DQ
+IL-2R α
+interleukin 2 receptor α chain
+IRB
+immuno-reactive bead
+P-gp
+P-glycoprotein
+GPX-1
+glutathione peroxidase 1
+betaERKO
+ERβ knockout
+hlyII
+hemolysin II
+OPCABG
+off pump coronary artery bypass grafting
+BBE
+Bickerstaff's brainstem encephalitis
+Fc γR-mediated
+Fcγ receptor-mediated
+PRHO
+preregistration house officer
+DA cycloaddition
+Diels Alder cycloaddition
+HIP 1
+Huntingtin-interacting protein 1
+af
+asian female
+DM
+dermatomyositis
+MFA
+mean fibre area
+loinc
+logical observation identifiers, names and codes
+3-D volume rendering
+3-dimensional volume rendering
+ED-SCLC
+extensive disease small-cell lung cancer
+BPS
+bisphosphonates
+Mu-TNF alpha
+murine tumor necrosis factor alpha
+K(P)
+partition coefficients
+P&A
+percussion and auscultation
+CMT
+combined modality treatment
+A1AT
+alpha 1-anti-trypsin
+G-protein beta gamma subunit
+GTP-binding protein βgamma-subunit
+UBL
+ubiquitin-like
+Sox-2
+sex-determining region Y box 2
+SRY-box 10
+sex-determining region Y, box 10
+QCPCR
+quantitative competitive PCR
+PES
+preepiglottic space
+VN
+vomero-nasal
+t-system
+transverse tubular system
+ISEL
+situ end-labelling
+IFM
+ifosphamide
+MES
+maximal-electroshock-induced seizure
+PLC delta1
+phospholipase-C delta 1
+LQ model
+linear quadratic model
+mob
+mesial occlusal buccal
+TCF
+T-cell factor
+FMM
+fast marching method
+rLH
+luteinizing hormone
+ER β knockout mouse
+estrogen receptor beta knockout mouse
+MHC1
+major histocompatability complex class I
+SOFA
+Sequential Organ Failure Assessment
+DF
+disseminated foci
+AAG
+alpha 1-acid glycoprotein
+CTC
+cultured T cells
+rhIFN-α2b
+recombinant human interferon-alpha2b
+math1
+mouse atonal homolog 1
+RBD-1
+RNA-binding domain 1
+antiIL-12
+anti-IL12 antibody
+PLA
+poly(lactic acid)
+NLRP3
+NOD-like receptor protein 3
+LNF
+laparoscopic Nissen fundoplication
+TEAM
+trauma evaluation and management
+IKK-α
+I kappa B kinase alpha
+cPLA(2) alpha
+cytosolic phospholipase A(2)α
+p-IgG
+plasma immunoglobulin G
+cHL
+Classical Hodgkin lymphoma
+c-section
+cesarian-section
+svd
+spontaneous vaginal delivery
+α 2HS-glycoprotein
+alpha-2 Heremans-Schmid glycoprotein
+H19DMR
+H19 differentially methylated region
+ER-αKO
+oestrogen receptor-α knockout mouse
+HTLVI
+human T-cell lymphoma/leukemia virus type I
+latent TGF-beta binding protein-1
+latent transforming growth factor β-binding protein 1
+TNFRSF1A
+tumor necrosis factor receptor super-family, member 1a
+IL12Rbeta1
+IL12 receptor beta1
+A1
+aluminum
+HIF1 α
+hypoxia-inducible factor-1alpha
+prehab
+prehabilitation
+anti-IL 15 MAb
+anti-interleukin-15 monoclonal antibody
+Ca-ATPase
+calcium adenosine triphosphatase
+anti-β2GPI antibody
+anti-β2 glycoprotein-1 antibody
+ATS
+thymocyte antiserum
+URS
+upstream repressor sequence
+DTx
+alpha-Dendrotoxin
+PSD-95
+post-synaptic density protein-95
+GdDTPA
+gadolinium-diethylenetriamine pentaacetic acid
+ATL
+adult T cell leukaemia-lymphoma
+M-ALD
+muscle-type aldolase
+TβR-II
+transforming growth factor beta receptor-II
+SOT
+solid organ transplantation
+MV
+micro-vibration
+HUV
+hypocomplementemic urticarial vasculitis
+WC base-pair
+Watson-Crick base pair
+DU
+duodenal
+DC-Chol
+dimethylaminoethane carbamoyl cholesterol
+ngu
+non gonococcal urethritis
+SDF1α
+stromal derived factor 1-α
+wm
+white male
+ω-CgTx
+Ω-conotoxin
+allergen-specific IgE-antibody
+allergen specific immunoglobulin E antibody
+NF-kappa-B
+nuclear factor κ B
+IL5 receptor α
+interleukine-5 receptor alpha
+l&h
+lymphocyte and histiocyte
+NOR
+nucleolar organizing region
+HIP 1
+Huntingtin interacting protein-1
+MDM-2
+mouse double minute 2
+I. buetschlii
+Iodoamoeba butschlii
+TF pathway inhibitor
+tissue factor pathway inhibitor
+US guidance
+ultra-sound guidance
+β-2-GP1
+β(2)-glycoprotein I
+131 I-labelled
+iodine 131-labelled
+MHA
+microangiopathic haemolytic anaemia
+ERβ knock-out
+oestrogen receptor β knock-out
+S. cerevisiae boulardii
+Saccharomyces cerevisiae boulardii
+PE
+petroleum ether
+IL-12Rβ1
+IL12 receptor β1
+SS
+stenosis
+ER alpha-specific
+estrogen receptor alpha specific
+IL2R-α
+IL2 receptor alpha subunit
+GERD-related
+gastro-esophageal reflux disease-related
+AVCS
+atrio-ventricular conduction system
+PKM zeta
+protein kinase M zeta
+PH
+posterior hypothalamus
+Foxm1b
+Forkhead Box M1B
+PA
+paleostriatum augmentatum
+Px
+pinealectomized
+A(beta)
+amyloid-β
+DEG
+diethyleneglycol
+type II IFN
+type II interferon
+obr
+ortho bowel routine
+atnr
+asymmetrical tonic neck reflex
+DEJ
+dermoepidermal junction
+Syt 9
+synaptotagmin-9
+Mcry1
+mouse cryptochrome 1
+IL-13R alpha2
+interleukine-13 receptor alpha 2 chain
+LE
+HuIFN-alpha
+alpha
+catalytic subunit
+Cyt-B
+cytochrome b
+MA
+mental age
+TCAP
+titin-cap
+IL-4 receptor α
+interleukin 4 receptor alpha
+AAT
+animal assisted therapy
+[Ca(2+)]i
+intracellular calcium concentration
+sebacoyl-CoA
+sebacoyl coenzyme A
+ERalphaKO
+ERalpha knock out mouse
+β 2m
+beta 2 microglobulin
+NIP
+4-hydroxy-5-iodo-3-nitro-phenylacetyl
+methicillin-resistant S. epidermidis
+methicillin-resistant Staphylococcus epidermidis
+anti-beta(2)GP1 antibody
+anti-beta2 glycoprotein-I antibody
+CLO
+codliver oil
+ER β protein
+oestrogen receptor beta protein
+MFH
+N-methyl-N-formylhydrazine
+BACE-2
+β-site amyloid precursor protein-cleaving enzyme 2
+EtOH-exposed
+ethanol exposed
+T1WI
+T1-weighted images
+UPBHB
+ultra-purified polymerised bovine hemoglobin
+MVV
+Maedi Visna virus
+dCT
+dynamic CT
+Tbl
+transducin β-like protein
+Mad2
+mitotic arrest deficiency 2
+GCD
+granular corneal dystrophy
+ACEi treated
+angiotensin-converting-enzyme-inhibitor-treated
+ASW
+artificial springwater
+MELAS
+mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes syndrome
+LSC
+liver stellate cell
+DALY
+disability-adjusted life-year
+Hox-b1
+homeobox B1
+PaCO2
+arterial partial pressure of carbon dioxide
+FRV
+functional renal volume
+CK2-beta
+casein kinase II-β
+rh-TGFβ 3
+recombinant human transforming growth factor-beta3
+MCC
+moth cytochrome-c
+CP
+constant pressure
+leds
+life events and difficulties scale
+IBS
+integrated backscatter
+XES
+x ray energy spectroscopy
+rad
+radical
+CB-154
+2-Br-alpha-ergocryptine
+SRP
+sulphate-reducing prokaryote
+RVF
+Rift Valley fever
+CPAF
+chlorpropamide alcohol flush
+ISC
+immunoglobulin-secreting cell
+Ampd2
+adenosine monophosphate deaminase 2
+C-FDA
+carboxyfluorescein-diacetate
+ATLL
+adult T-cell leukaemia-lymphoma
+OPS
+O-specific polysaccharide
+type-2 SLAP lesion
+type 2 superior labrum anterior-posterior lesion
+ASA 1
+American Society of Anaesthesiology Grade I
+PIP
+prevention of immune precipitation
+rCG-CSF
+recombinant canine granulocyte-colony stimulating factor
+d4T
+2',3'-didehydro-2',3'-dideoxythymidine
+N terminal pro brain natriuretic peptide
+amino-terminal probrain natriuretic peptide
+hsp90alpha
+heat-shock protein 90α
+corr
+correction
+MADB
+monoamino-carboxy-dihydro-borane
+DEDTC
+diethyldithio-carbamate
+HIV-I
+human immunodeficiency type-1 virus
+EBNA-1
+EBV nuclear antigen 1
+CPMAS
+cross polarisation magic-angle spinning
+anti-IL 15 monoclonal antibody
+antiinterleukin-15 monoclonal antibody
+p.i.
+h post-injection
+SDA
+stearidonic acid
+IGF-binding protein-2
+insulinlike growth factor binding protein-2
+CPF
+clot-promoting factor
+angioCT scan
+angio-computed tomography scan
+ANS
+antirat neutrophil serum
+ASA-V
+American Society of Anaesthesiology physical status 5
+NSAIDS
+non-steroidal anti-inflammatory drug
+HIF-1α
+hypoxia-inducible factor 1 α
+ACH
+adrenocortical hormone
+BK
+large-conductance Ca2+-activated K+
+pT3, pN0, M0
+pathological tumor-3, pathological node-0, metastasis-0
+peg-IFN α 2a
+pegylated interferon-alpha-2a
+EB-virus
+Epstein-Barr virus
+FDG-PET
+fluorine-18 fluorodeoxyglucose positron emission tomography
+CoM
+center of mass
+Asf1
+anti-silencing function-1
+ePR
+electronic patient record
+latent TGF-β binding protein-1
+latent transforming growth factor-beta binding protein-1
+FKBP
+FK506 binding protein
+CRA
+community reinforcement approach
+anti-TCR αβ MAb
+anti-T-cell receptor-alpha/beta monoclonal antibody
+IFNα/βR
+interferon alpha/beta receptor
+PM-B
+polymyxin B
+trps
+trichorhinophalangeal syndrome
+GIP
+giant-cell interstitial pneumonia
+ID
+index of definition
+αSM actin
+alpha-smooth muscle actin
+UMATI
+Family Planning Association of Tanzania
+U. brachyura
+Unicauda brachyura
+PLF
+perilymphatic fistula
+CACS
+celiac-axis compression syndrome
+RH
+reproductive health
+ASA grade 3
+American Society of Anesthesiology grade 3
+PHF
+Potomac horse fever
+MKS
+Meckel-Gruber syndrome
+anti-beta2-GPI antibody
+anti-β2 glycoprotein I antibody
+67LR
+67-kDa laminin receptor
+anti-beta 2 GP I antibody
+anti-beta 2-glycoprotein I antibody
+MIT
+mitoxantrone
+toll-IL-1 receptor domain-containing adaptor-inducing IFN-beta
+toll-interleukin1 receptor domain-containing adapter-inducing interferon beta
+PI-P2
+phosphatidylinositol bis-phosphate
+GVH disease
+graft-versus-host disease
+CIN
+contrast-induced nephropathy
+S.I.
+stimulation index
+HCF
+human corneal fibroblasts
+PKC-θ
+protein kinase C-θ
+TGFbeta-activated kinase 1-binding protein-1
+transforming growth factor-beta-activated kinase 1-binding protein 1
+MPA
+peak amplitude
+TBAs
+traditional birth attendants
+gamma-HCCH
+gamma-hexachlorocyclohexane
+BCT
+brachiocephalic trunk
+AhRR
+AhR repressor
+ISP
+Isepamicin
+HLY
+alpha-hemolysin
+Isl1
+islet 1
+COMC
+cholesteatoma
+hmwk
+high molecular weight keratin
+PLCbeta 4
+phospholipase C-β(4)
+SN
+sodium nitrite
+W
+widow
+RAFT
+reversible addition fragmentation chain-transfer
+MEA
+multi-electrode array
+TCR alpha/beta
+T-cell receptor alpha/beta
+phospho-tau
+phosphorylated tau protein
+Rho GDP dissociation inhibitor 1
+Rho-guanine nucleotide dissociation inhibitor 1
+L. kyushuensis
+Leptocarabus kyushuensis
+anti-P Ab
+anti-P antibody
+O. scutellatus scutellatus
+Oxyuranus scutellatus scutellatus
+C. hexapetala
+Clematis hexapetala
+PLCgamma(2)
+phospholipase C-γ-2
+SUR 2
+sulfonylurea receptor-2
+TRF
+telomere repeat-binding factor
+CSF-1R
+colony stimulating factor 1 receptor
+Tyr
+tyrosinase gene
+IFN-alpha-2a
+interferon-α2a
+DM
+diabetic patients
+IVPB
+intravenous piggyback
+gamma GT
+gamma glutamyltransferase
+alphaGAL
+alpha galactosidase
+LOP
+Lipid ozonation products
+AOFAS ankle hindfoot scale
+American Orthopaedic Foot and Ankle Society ankle-hindfoot scale
+SCCHN
+head and neck squamous cell carcinoma
+HC
+horizontal cells
+eval
+evaluation
+ATP sulphurylase
+adenosine triphosphate-sulphurylase
+AVDO(2)
+arteriovenous oxygen difference
+LHCPII
+light-harvesting chlorophyll protein II
+WIS
+water insoluble solid
+LAD
+left anterior descending branch
+fapyadenine
+formamidopyrimidine-adenine
+EOE
+evoked otoacoustic emissions
+T1/2
+clearance
+WFDC9
+whey acidic protein four-disulfide core domain 9
+T-cell receptor-γ δ+
+T cell receptor γδ-positive
+IBC
+isobutyl cyanoacrylate
+DTIC
+dimethyl triazeno-imidazole carboxamide
+N-SMase-2
+neutral sphingomyelinase 2
+CpG
+cytidine-phosphate-guanosine
+BAL
+bile-salt activated lipase
+TGFβ R II
+type II transforming growth factor-beta receptor
+QFT-G
+QuantiFERON-TB Gold
+MRT
+Mental Rotation Test
+LTCIC
+long-term culture initiating cells
+TSST
+toxic shock syndrome toxin

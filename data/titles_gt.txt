@@ -1,0 +1,380 @@
+Deputy V
+Deputy
+
+Deputy I
+Deputy
+
+Spty
+Deputy
+
+Dtpy
+Deputy
+
+Dpty Chf
+Chief Deputy
+
+Patrol Officer Ii
+Patrol Officer
+
+Ptlr Off
+Patrol Officer
+
+Prtl Off
+Patrol Officer
+
+Patrol Officer Iii
+Patrol Officer
+
+Patrol Officer Iv
+Patrol Officer
+
+Patroll Officer
+Patrol Officer
+
+Patrol Officer I
+Patrol Officer
+
+Chf
+Chief
+
+Sergeant Ii
+Sergeant
+
+Lt
+Lieutenant
+
+Cpt
+Captain
+
+Corporal Ii
+Corporal
+
+Corporal - Day Shift
+Corporal
+
+Crpl
+Corporal
+
+Cp
+Corporal
+
+Asst Chf
+Assistant Chief
+
+Sag
+Special Agent
+
+Special Agent Ii
+Special Agent
+
+Sac
+Special Agent In Charge
+
+Special Agent in Charge
+Special Agent In Charge
+
+Sag Ic
+Special Agent In Charge
+
+Detective Corporal
+Detective Corporal
+
+Undersheriff
+Undersheriff
+
+Detective Ii
+Detective
+
+Detective Iv
+Detective
+
+Investigator
+Investigator
+
+Others
+Others
+
+Detective Sergeant
+Detective Sergeant
+
+Park Ranger
+Ranger
+
+Mjr
+Major
+
+Maj
+Major
+
+Marshall
+Marshall
+
+Natural Resource Officer
+Natural Resource Officer
+
+Enforcement Agent
+Enforcement Agent
+
+Master Trooper
+Master Trooper
+
+Shf
+Sheriff
+
+Act Chf
+Acting Chief
+
+Court Security Officer
+Court Security Officer
+
+Warrant Officer
+Warrant Officer
+
+Trooper
+Trooper
+
+Master Deputy
+Master Deputy
+
+Sro
+School Resource Officer
+
+Sgr
+Senior Investigator
+
+Director
+Director
+
+Safety Officer
+Safety Officer
+
+Security Officer
+Security Officer
+
+Assistant Director
+Assistant Director
+
+Senior Special Agent
+Senior Special Agent
+
+Special Agent Supervisor
+Special Agent Supervisor
+
+Supervisor
+Supervisor
+
+Superintendent
+Superintendant
+
+Mci1
+Motor Carrier Inspector
+
+Motor Carrier Inspector I
+Motor Carrier Inspector
+
+Mci3
+Motor Carrier Inspector
+
+Motor Carrier Inspector Iii
+Motor Carrier Inspector
+
+Motor Carrier Inspector Ii
+Motor Carrier Inspector
+
+Detective Lieutenant
+Detective Lieutenant
+
+Group Supervisor
+Group Supervisor
+
+Technical Trooper
+Technical Trooper
+
+Lt Col
+Lieutenant Colonel
+
+Sheriff Deputy
+Sheriff Deputy
+
+Court Security Sergeant
+Court Security Sergeant
+
+Commander
+Commander
+
+Master Patrol Officer
+Master Patrol Officer
+
+Conservation Officer
+Conservation Officer
+
+Service Officer
+Service Officer
+
+Deputy Bailiff
+Deputy Bailiff
+
+Manager
+Manager
+
+Dispatch
+Dispatch
+
+Assistant Supervisor
+Assistant Supervisor
+
+Admin
+Admin
+
+Colonel
+Colonel
+
+Chief Investigator
+Chief Investigator
+
+Assistant Marshal
+Assistant Marshal
+
+Apkmgr
+Assistant Park Manager
+
+Atpm
+Assistant Park Manager
+
+Aprmngr
+Assistant Park Manager
+
+Station Officer
+Station Officer
+
+Fire Marshall
+Fire Marshall
+
+Associate Director
+Associate Director
+
+Inspector
+Inspector
+
+Officer Iv
+Officer
+
+Officer Ii
+Officer
+
+Officer Iii
+Officer
+
+Deputy Fire Marshal
+Deputy Fire Marshal
+
+Records
+Records
+
+Special Agent In Charge Inspector
+Special Agent Inspector
+
+Deputy/Forensic Scientist Iii
+Deputy/Forensic Scientist
+
+Deputy/Forensic Scientist Iv
+Deputy/Forensic Scientist
+
+Senior Dispatch
+Senior Dispatch
+
+Detective Major
+Detective Major
+
+Community Resource Officer
+Community Resource Officer
+
+Property
+Property
+
+Interim Director
+Interim Director
+
+Deputy Director
+Deputy Director
+
+Dare Officer
+Drug Enforcement Officer
+
+Sergeant Unit Supervisor
+Sergeant Unit Supervisor
+
+Supervisory Deputy
+Supervisory Deputy
+
+Sergeant Detective
+Sergeant Detective
+
+Land Manager
+Land Manager
+
+Acting Captain
+Acting Captain
+
+Dpty Mrsl
+Deputy Marshall
+
+Dmrsl
+Deputy Marshall
+
+Forensic Accountant
+Forensic Accountant
+
+Analyst
+Analyst
+
+Cor Off
+Corrections Officer
+
+Assistant Special Agent In Charge
+Assistant Special Agent In Charge
+
+Supervisory Special Agent
+Supervisory Special Agent
+
+Special Investigator Ii
+Special Investigator
+
+Rngr
+Ranger
+
+Acting Major
+Acting Major
+
+Trainee
+Trainee
+
+Assistant Manager
+Assistant Manager
+
+Alnd Mgr
+Assistant Land Manager
+
+Assistant Supervisory Special Agent
+Assistant Supervisory Special Agent
+
+Crime Scene Investigator
+Crime Scene Investigator
+
+Captain Detective
+Captain Detective
+
+Corporal Detective
+Corporal Detective
+
+Dispatch Supervisor
+Dispatch Supervisor
+
+Parole Officer
+Parole Officer
+
+Training Officer
+Training Officer
+
+Deportation Officer
+Deportation Officer

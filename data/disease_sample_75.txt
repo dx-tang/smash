@@ -1,0 +1,150 @@
+Kit
+receptor
+cross-polarisation magic-angle spinning NMR spectroscopy
+cross polarization magic angle spinning nuclear magnetic resonance spectroscopy
+αERKO
+oestrogen receptor alpha knock-out
+rHuIFN-alpha-A/D
+recombinant human interferon α A/D
+transmembrane TNF alpha
+transmembrane tumour necrosis factor-α
+sCJD
+sporadic CJD
+HIV type-1 subtype A
+human immunodeficiency virus type 1 subtype A
+Dfo
+desferrioxamine
+Rho-GDP dissociation inhibitor-1
+Rho-guanine nucleotide dissociation inhibitor 1
+vm
+mean blood-flow velocity
+3-D cell culture system
+3-dimensional cell culture system
+EHPVO
+extrahepatic portal venous obstruction
+ER-beta KO
+ERβ knock-out
+TNF receptor-2
+tumour necrosis factor receptor 2
+SBE-βCyd
+sulphobutyl ether-beta-cyclodextrin
+LR
+lactated Ringer solution
+T-reg cell
+regulatory T-cell
+CXCL1
+CXC motif ligand 1
+CPM
+continuous passive motion
+PP
+pseudomyxoma peritonei
+NF-kappaB p50 subunit
+nuclear factor-κB p50 subunit
+PDE5
+cGMP-binding cGMP-specific phosphodiesterase
+TH-li
+Tyrosine hydroxylase-like immunoreactivity
+SEM-EDX
+scanning electron microscopy-energy dispersive X-ray spectrometry
+CFA
+configural frequency analysis
+SHP2
+src homology 2 domain containing protein tyrosine phosphatase 2
+RPP
+rapidly progressive periodontitis
+TGFβ receptor type II
+transforming growth factor β receptor type II
+alpha BuTX
+alpha-bungarotoxin
+ORT
+oral rehydration therapy
+antiIL-4 Ab
+antiIL-4 antibody
+apn-2
+AP endonuclease-2
+Ad5E1b
+adenovirus 5 E1B
+TGFBRI
+transforming growth factor β receptor 1
+CTnI
+cardiac troponin I
+BMPRIB
+bone morphogenetic protein receptor IB
+pk
+pneumoconiosis
+IL-13 receptor α2-chain
+interleukin-13 receptor α 2 chain
+G spot
+Grafenberg spot
+HLA-DR7 antigen
+human leukocyte antigen DR7
+Ri
+intraclass correlation coefficient
+Fc ε RI α-chain
+type 1 Fcepsilon receptor alpha chain
+cirb
+colorado institute for research in biotechnology
+A-beta
+amyloid beta-peptide
+IL-1 receptor associated kinase
+interleukin 1 receptor associated kinase
+AHA
+acquired hemolytic anemia
+pfmdr-1
+Plasmodium falciparum multidrug resistance gene-1
+T3
+tumor size 3
+Ang II level
+angiotensin II level
+ITT
+Intent-to-treat
+sPLA(2)IIa
+group IIa secretory phospholipase A(2)
+SUA
+serum uric acid
+SmF
+submerged fermentation
+ebv
+epstein-barr virus
+ASA-V
+American Society of Anesthesiologists Class 5
+Tcf-4
+T cell factor-4
+NG
+nitroglycerin
+lipox
+lipooxygenase
+ER-alphaKO
+oestrogen receptor alpha knock out
+ras-GAP
+Ras GTPase-activating protein
+DYD
+daughter yield deviation
+anti-IL 5 MoAb
+anti-IL-5 monoclonal antibody
+HOG
+human oligodendroglioma
+CIDR
+controlled internal drug-releasing device
+LLQ
+left lower quadrant
+PRX II
+peroxiredoxin-II
+TAK1 binding protein 1
+transforming growth factor-beta-activated kinase 1-binding protein 1
+GU
+gastric ulcers
+IL3R α
+IL-3 receptor α chain
+PA
+puromycin amino-nucleoside
+MIP-1 alpha
+macrophage-inflammatory protein-1 alpha
+TFA
+transfer-function analysis
+NADPH-cytochrome P450 reductase
+nicotinamide adenine dinucleotide phosphate-cytochrome P450 reductase
+FRAT
+free radical assay technique
+MR
+Maudsley reactive

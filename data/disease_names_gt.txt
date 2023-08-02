@@ -1,0 +1,990 @@
+aaa
+abdominal aortic aneurysm
+
+aas
+aarskog scott syndrome
+
+abcd syndrome
+albinism black lock cell migration disorder
+
+acc
+agenesis of the corpus callosum
+
+acs
+acute coronary syndrome
+
+acth deficiency
+adrenocorticotropic hormone deficiency
+
+ad
+alzheimer disease
+
+add
+attention deficit disorder
+
+add rt
+attention deficit disorder residual type
+
+adem
+acute disseminated encephalomyelitis
+
+adhd
+attention deficit hyperactivity disorder
+
+af
+atrial fibrillation
+
+ags
+aicardi goutieres syndrome
+
+ahc
+alternating hemiplegia of childhood
+
+aids
+acquired immune deficiency syndrome
+
+aip
+acute intermittent porphyria
+
+ali
+acute lung injury
+
+all
+acute lymphoblastic lymphoma
+
+als
+amyotrophic lateral sclerosis
+
+amd
+age related macular degeneration
+
+aos
+apraxia of speech
+
+apa
+aldosterone producing adenoma
+
+aps
+antiphospholipid syndrome
+
+arbd
+alcohol related birth defects
+
+ard
+adult refsum disease
+
+ard
+acute respiratory distress syndrome
+
+ards
+acute respiratory distress syndrome
+
+arnd
+alcohol related neurodevelopmental disorder
+
+as
+asperger syndrome
+
+as
+antiphospholipid syndrome
+
+as
+apraxia of speech
+
+asd
+autism spectrum disorders
+
+asd
+atrial septal defect
+
+asds
+autism spectrum disorders
+
+ass
+african sleeping sickness
+
+ass
+aarskog scott syndrome
+
+a t
+ataxia telangiectasia
+
+avms
+arteriovenous malformations
+
+bbs
+paruresis
+
+beb
+benign essential blepharospasm
+
+bd
+binswanger disease
+
+beh
+behaviorally emotionally handicapped
+
+bh
+behaviorally handicapped
+
+bmd
+becker muscular dystrophy
+
+bpd
+borderline personality disorder
+
+bph
+benign prostatic hyperplasia
+
+bs
+bloom syndrome
+
+bse
+bovine spongiform encephalopathy
+
+bss
+brown sequard syndrome
+
+bv
+bacterial vaginosis
+
+cach
+central nervous system hypomyelination
+
+cad
+coronary artery disease
+
+cadasil
+cerebral autosomal dominant arteriopathy with sub cortical infarcts and leukoencephalopathy
+
+capd
+central auditory processing disorder
+
+ccd
+considerable conduct disorder
+
+cchf
+crimean congo haemorrhagic fever
+
+cchs
+congenital central hypoventilation syndrome
+
+ccm
+cerebral cavernous malformation
+
+cdg
+congenital disorder of glycosylation
+
+cdg
+carbohydrate deficient glycoprotein syndrome
+
+cdgs
+carbohydrate deficient glycoprotein syndrome
+
+cep
+congenital erythropoietic porphyria
+
+cesd
+cholesteryl ester storage disease
+
+cf
+cystic fibrosis
+
+cfids
+chronic fatigue immune dysfunction syndrome
+
+cfs
+chronic fatigue syndrome
+
+cgbd
+corticobasal ganglionic degeneration
+
+ch
+cluster headache
+
+chd
+coronary heart disease
+
+chf
+congestive heart failure
+
+chf
+crimean congo haemorrhagic fever
+
+cidp
+chronic inflammatory demyelinating polyneuropathy
+
+cipa
+congenital insensitivity to pain with anhidrosis
+
+cjd
+creutzfeldt jakob disease
+
+cms
+chiari malformations
+
+cmt disease
+charcot marie tooth disease
+
+cofs
+cerebro oculo facio skeletal syndrome
+
+copd
+chronic obstructive pulmonary disease
+
+cp
+cerebral palsy
+
+cp cpps
+chronic prostatitis chronic pelvic pain syndrome
+
+cpdd
+calcium pyrophosphate deposition disease
+
+cpm
+central pontine myelinolysis
+
+cpps
+chronic pelvic pain syndrome
+
+crf
+chronic renal failure
+
+crkp
+carbapenem
+
+crps
+complex regional pain syndrome
+
+csa
+central sleep apnea
+
+csd
+cat scratch disease
+
+cvd
+cardiovascular disease
+
+das
+developmental apraxia of speech
+
+dba
+diamond blackfan anemia
+
+dbmd
+duchenne becker muscular dystrophy
+
+dd
+developmental disability
+
+def
+deaf
+
+df
+dengue fever
+
+dh
+developmentally handicapped
+
+dhf
+dengue hemorrhagic fever
+
+dig
+digeorge syndrome
+
+dish
+diffuse idiopathic skeletal hyperostosis
+
+dlb
+dementia with lewy bodies
+
+dm
+diabetes mellitus
+
+dmd
+duchenne muscular dystrophy
+
+dmd
+duchenne becker muscular dystrophy
+
+drsp disease
+drug resistant streptococcus pneumoniae
+
+ds
+down syndrome
+
+ds
+digeorge syndrome
+
+dsps
+delayed sleep phase syndrome
+
+dts
+delirium tremens
+
+dvd
+developmental verbal dyspraxia
+
+dvt
+deep vein thrombosis
+
+ed
+emotionally disturbed
+
+eds
+excessive daytime sleepiness
+
+eee
+eastern equine encephalitis
+
+ehk
+epidermolytic hyperkeratosis
+
+emh
+educable mentally handicapped
+
+emr
+educable mentally retarded
+
+ens
+epidermal nevus syndrome
+
+epm
+extrapontine myelinolysis
+
+epp
+erythropoietic protoporphyria
+
+esrd
+end stage renal disease
+
+ess
+empty sella syndrome
+
+fae
+fetal alcohol effects
+
+fas
+fetal alcohol syndrome
+
+fas
+fetal alcohol spectrum disorders
+
+fasds
+fetal alcohol spectrum disorders
+
+ffi
+fatal familial insomnia
+
+fma
+focal muscular atrophies
+
+fmd
+fibromuscular dysplasia
+
+fms
+fibromyalgia syndrome
+
+fsp
+familial spastic paraparesis
+
+ftd
+frontotemporal dementia
+
+fvs
+fetal valproate syndrome
+
+fxs
+fragile x syndrome
+
+gad
+generalized anxiety disorder
+
+gan
+giant axonal neuropathy
+
+gas disease
+group a streptococcal disease
+
+gbs
+guillain barré syndrome
+
+gbs
+group b streptococcal
+
+gbs disease
+group b streptococcal disease
+
+gce
+glycine encephalopathy
+
+gerd
+gastroesophageal reflux disease
+
+gi
+gastrointestinal
+
+gib
+gastrointestinal bleeding
+
+gn
+glossopharyngeal neuralgia
+
+gss disease
+gerstmann straussler scheinker disease
+
+gt ld
+gifted and learning disabled
+
+gvhd
+graft versus host disease
+
+gwd
+guinea worm disease
+
+has
+holmes adie syndrome
+
+hcp
+hereditary coproporphyria
+
+hd
+huntington disease
+
+hdl2
+huntington disease like 2
+
+hellp syndrome
+hemolytic anemia elevated liver enzymes and low platelet count syndrome
+
+hfa
+high functioning autism
+
+hfmd
+hand foot and mouth disease
+
+hfrs
+hemorrhagic fever with renal syndrome
+
+hi
+hearing impaired
+
+hib disease
+haemophilus influenzae type b disease
+
+hmsn type iii
+dejerine sottas syndrome
+
+hoh
+hard of hearing
+
+htn
+hypertension
+
+hprt deficiency
+hypoxanthine guanine phosphoribosyl transferase
+
+hps
+hantavirus pulmonary syndrome
+
+hpv infection
+human papillomavirus
+
+hsp
+hereditary spastic paraplegia
+
+ibd
+inflammatory bowel disease
+
+ibm
+inclusion body myositis
+
+ibs
+ichthyosis bullosa of siemens
+
+ic pbs
+interstitial cystitis painful bladder syndrome
+
+icf syndrome
+immunodeficiency centromere instability and facial anomalies syndrome
+
+iha
+hyperaldosteronism
+
+ied
+intermittent explosive disorder
+
+ifap syndrome
+ichthyosis follicularis alopecia and photophobia syndrome
+
+inad
+infantile neuroaxonal dystrophy
+
+ip
+incontinentia pigmenti
+
+ird
+infantile refsum disease
+
+is
+infantile spasm
+
+itp
+idiopathic thrombocytopenic purpura
+
+jas
+juvenile anklosing spondylitis
+
+je
+japanese encephalitis
+
+jhd
+juvenile huntington disease
+
+jra
+juvenile rheumatoid arthritis
+
+ks
+kawasaki syndrome
+
+kss
+kearns sayre syndrome
+
+kts
+klippel trenaunay syndrome
+
+ktw syndrome
+klippel trenaunay weber syndrome
+
+lcm
+lymphocytic choriomeningitis
+
+ld
+learning disabilities
+
+lems
+lambert eaton myasthenic syndrome
+
+lfa
+low functioning autism
+
+lgv
+lymphogranuloma venereum
+
+lks
+landau kleffner syndrome
+
+lns
+lesch nyhan syndrome
+
+lp
+lipoid proteinosis
+
+mac
+mycobacterium avium complex
+
+mbd
+minimal brain dysfunction
+
+mcs
+multiple chemical sensitivities
+
+md
+muscular dystrophy
+
+md
+myeloproliferative disorders
+
+mdd
+major depressive disorder
+
+mdr tb
+multi drug resistant tuberculosis
+
+mid
+multi infarct dementia
+
+mjd
+machado joseph disease
+
+ml
+mucolipidoses
+
+mld
+metachromatic leukodystrophy
+
+mma
+monomelic amyotrophy
+
+mmr
+measles mumps rubella
+
+mmrv
+measles mumps rubella varicella
+
+mnd
+motor neuron disease
+
+moh
+medication overuse headaches
+
+mpd
+myeloproliferative disorders
+
+mr dd
+mentally retarded
+
+ms
+multiple sclerosis
+
+msa
+multiple system atrophy
+
+msdd
+multi sensory developmental delays
+
+mrsa
+methicillin resistant staphylococcus aureus
+
+nas
+neonatal abstinence syndrome
+
+nbia
+neurodegeneration with brain iron accumulation
+
+ncl
+neuronal ceroid lipofuscinosis
+
+nf1
+neurofibromatosis type 1
+
+nf2
+neurofibromatosis type 2
+
+nkh
+nonketotic hyperglycinemia
+
+nld
+nonverbal learning disability
+
+nmds
+neuronal migration disorders
+
+nmo
+neuromyelitis optica
+
+nms
+neuroleptic malignant syndrome
+
+np
+niemann pick disease
+
+npc1
+niemann pick disease type c1
+
+nph
+normal pressure hydrocephalus
+
+ntd
+neural tube defect
+
+ntds
+neural tube defects
+
+oa
+osteoarthritis
+
+oa
+olivopontocerebellar atrophy
+
+ocd
+obsessive compulsive disorder
+
+odd
+oppositional defiant disorder
+
+oma
+ocular motor apraxia
+
+on
+osteonecrosis
+
+opc
+oropharyngeal candidiasis
+
+opca
+olivopontocerebellar atrophy
+
+osa
+obstructive sleep apnea
+
+pbc
+primary biliary cirrhosis
+
+pbd
+peroxisome biogenesis disorders
+
+pcos
+polycystic ovarian syndrome
+
+pct
+porphyria cutanea tarda
+
+pd
+parkinson disease
+
+pdd
+pervasive developmental disorder
+
+pdd nos
+pervasive developmental disorder not otherwise specified
+
+pkan
+panthothenate kinase associated neurodegeneration
+
+plmd
+periodic limb movement disorder
+
+pls
+primary lateral sclerosis
+
+pmd
+pelizaeus merzbacher disease
+
+pml
+progressive multifocal leukoencephalopathy
+
+pms
+premenstrual syndrome
+
+pots
+postural orthostatic tachycardia syndrome
+
+ppma
+postpolio progressive muscular atrophy
+
+pps
+post polio syndrome
+
+psc
+primary sclerosing cholangitis
+
+psp
+progressive supranuclear palsy
+
+pvl
+periventricular leukomalacia
+
+pw
+port wine stain
+
+q fever
+query fever
+
+ra
+rheumatoid arthritis
+
+rad
+reactive airway disease
+
+rind
+reversible ischemic neurologic deficit
+
+rlf
+retrolental fibroplasia
+
+rls
+restless legs syndrome
+
+rmds
+repetitive motion disorders
+
+rop
+retinopathy of prematurity
+
+rs
+reye syndrome
+
+rsd
+reflex sympathetic dystrophy
+
+rti
+respiratory tract infection
+
+sars
+severe acute respiratory syndrome
+
+sb
+spina bifida
+
+sbs
+shaken baby syndrome
+
+sc
+sydenham chorea
+
+sids
+sudden infant death syndrome
+
+sirs
+systemic inflammatory response syndrome
+
+sis
+shaken infant syndrome
+
+sle
+systemic lupus erythematosus
+
+sm
+selective mutism
+
+sma
+spinal muscular atrophy
+
+smei
+severe myoclonic epilepsy of infancy
+
+sms
+smith magenis syndrome
+
+sod
+septo optic dysplasia
+
+sps
+stiff person syndrome
+
+sspe
+subacute sclerosing panencephalitis
+
+stemi
+st elevation myocardial infarction
+
+std
+sexually transmitted disease
+
+sunct
+short lasting unilateral neuralgiform headache with conjunctival injection and tearing
+
+sws
+sturge weber syndrome
+
+tac
+trigeminal autonomic cephalalgia
+
+tb
+tuberculosis
+
+tbi
+traumatic brain injury
+
+tcs
+tethered cord syndrome
+
+tef
+tracheoesophageal fistula
+
+tia
+transient ischemic attack
+
+tmh
+trainable mentally handicapped
+
+tmj tmd
+temporomandibular joint disorder
+
+tmr
+trainable mentally retarded
+
+tn
+trigeminal neuralgia
+
+tos
+thoracic outlet syndrome
+
+ts
+tourette syndrome
+
+tses
+transmissible spongiform encephalopathies
+
+tsp
+tropical spastic paraparesis
+
+tth
+tension type headache
+
+ttp
+thrombotic thrombocytopenic purpura
+
+ucpps
+urologic chronic pelvic pain syndrome
+
+uda
+urticaria deafness amyloidosis
+
+utis
+urinary tract infections
+
+uc
+ulcerative colitis
+
+uri
+upper respiratory infection
+
+vcfs
+velo cardio facial syndrome
+
+vcjd
+variant creutzfeldt jakob disease
+
+vd
+venereal disease
+
+vhf
+viral hemorrhagic fever
+
+vhl
+von hippel lindau disease
+
+vp
+variegate porphyria
+
+vsd
+ventricular septal defect
+
+vvc
+vulvovaginal candidiasis
+
+vwm disease
+vanishing white matter disease
+
+wagr syndrome
+wilms tumor aniridia genitourinary anomalies and mental retardation syndrome
+
+wd
+wilson disease
+
+wee
+western equine encephalitis
+
+ws
+williams syndrome
+
+xdr tb
+extensively drug resistant tuberculosis
+
+xlsa
+x linked sideroblastic anemia
+
+xp
+xeroderma pigmentosa
+
+yss
+young simpson syndrome
+
+yvs
+yunis varon syndrome
+
+zbls
+zadik barak levin syndrome
+

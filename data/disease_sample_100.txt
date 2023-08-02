@@ -1,0 +1,200 @@
+CPK-MB
+creatine phosphokinase
+Rep-PCR
+repetitive element sequence based PCR
+IL-18R alpha
+interleukine-18 receptor-alpha
+rem
+rapid eye movement
+N. eutropha
+Nitrosomonas eutropha
+SDS
+Severity of Dependence Scale
+APOE epsilon 4 allele
+apolipoprotein E-epsilon4 allele
+PLCδ(1)
+phospholipase C-δ1
+QRT-PCR
+quantitative reverse transcription-polymerase chain reaction
+HMGCoA
+3-hydroxy-3-methylglutaryl-CoA
+Hb Diamant
+haemoglobin Diamant
+Abeta-40
+amyloid β-protein 1-40
+PTTH
+prothoracicotropic hormone
+IL-12-receptor beta 1 chain
+interleukin-12 receptor beta 1 chain
+LTBP
+latent TGF-beta binding protein
+GC--MS
+gas chromatography mass spectroscopy
+IGF binding protein 6
+insulin-like growth factor-binding protein-6
+BLyS
+B lymphocyte stimulator
+HAdV27
+human adenovirus type-27
+TGFe
+transforming growth factor type e
+ICE
+interleukin-1beta-converting enzyme
+SCFE
+Slipped capital femoral epiphysis
+ER β specific
+oestrogen receptor beta specific
+DF-2
+Dysgonic fermenter 2
+sAPP-alpha
+soluble amyloid precursor protein-α
+LIZ
+leucine/isoleucine zipper
+PLR
+pupillary light reflex
+4-HPR
+N-(4-hydroxyphenyl)-retinamide
+SNV
+sin nombre virus
+ASMA
+anti-smooth muscle antibody
+SDS PAGE
+sodium dodecyl sulfate-polyacrylamide gel electrophoresis
+SLNs
+solid lipid nanoparticles
+NTF2
+nuclear transport factor-2
+fine-cut CT
+fine cut computed tomography
+VECO
+excretion rate of carbon monoxide
+Cont.
+continue
+TrkB
+receptor tyrosine kinase B
+anti-IL 4 monoclonal antibody
+antiinterleukin 4 monoclonal antibody
+TGF-β-inducible gene H3
+transforming growth factor-beta-inducible gene-H3
+IκBalpha
+inhibitor-kappaB alpha
+SCIM
+Structured Clinical Instruction Module
+sox-3
+sex-determining region Y-box 3
+MJ
+megajoule
+EDR
+ECG derived respiration
+pentapeptideDSDRR
+pentapeptide aspartyl-seryl-aspartyl-prolyl-arginine
+CHGA
+chromogranin A
+FANC-C
+Fanconi's anemia group C
+n farcinica
+nocardia farcinica
+Rituximab
+monoclonal anti-CD20 antibody
+rHu-IFN-β
+recombinant human interferon-beta
+SPO2
+oxygen saturation
+5HT-1A
+5-hydroxytryptamine 1A
+hr
+host range
+F
+coefficient of inbreeding
+UDP-glycosyl-transferase
+uridine diphosphate glycosyltransferase
+PFC
+plaque-forming cells
+HBV
+honeybee venom
+HHS
+hyperkinetic heart syndrome
+aMI
+acute myocardial infarctions
+PRORATA
+Procalcitonin to Reduce Antibiotic Treatments in Acutely ill patients
+TGFbeta-R-II
+transforming growth factor β type II receptor
+cdd
+cytidine deaminase
+V. cholerae biotype El Tor
+Vibrio cholerae biotype El Tor
+(99m)Tc-MIBI
+technetium-99m-methoxyisobutylisonitrile
+DR
+detection rate
+I/G
+ratio
+TC2
+thrombocidin 2
+A. coenophialum
+Acremonium coenophialum
+Pn
+pontine nuclei
+KPTI
+Kunitz pancreatic trypsin inhibitor
+rIL-4
+recombinant Interleukin-4
+RARbeta
+retinoic acid receptor-beta
+MMP-3
+matrix metalloproteinase-3
+gc
+vitamin D binding protein
+MALDI
+matrix-assisted laser desorption-ionisation
+IHH
+idiopathic hypogonadotropic hypogonadism
+F. varia
+Frieseomelitta varia
+S. bicolor
+Saccharum bicolor
+immuno EM
+immunoelectronmicroscopy
+CTT
+C-terminal tail
+univ
+universally
+El Tor V. cholerae
+eltor Vibrio cholerae
+IGF-II mRNA-binding protein 2
+insulin-like growth factor-II messenger RNA-binding protein 2
+EDHF
+endothelium-dependent hyperpolarization factor
+ASA V
+American Society of Anesthesiology status 5
+UIBC
+unsaturated iron-binding capacity
+p27/Kip1 protein
+cyclin dependent kinase inhibitor 1B protein
+SREBP-1
+sterol response element binding protein-1
+AbetaPP
+amyloid beta precursor protein
+f&f
+fixes and follows
+A. conyzoides
+Ageratum conyzoides
+WDM
+wavelength-division multiplexing
+WCS
+Walker carcinosarcoma
+CRN
+cost-related medication nonadherence
+PGC 1α
+peroxisome-proliferator-activated receptor-γ co-activator 1 α
+TCR-γ δ (+)
+T-cell receptor-γδ-positive
+HGG
+human gammaglobulin
+BCS class II
+biopharmaceutics classification system class 2
+CYP
+cyto-chrome P450
+Toll/IL-1 receptor domain-containing adaptor-inducing IFN-β
+Toll-interleukin 1 receptor domain-containing adapter-inducing interferon beta

@@ -1,0 +1,80 @@
+APO CII
+apolipoprotein C-2
+LP
+lactoperoxidase
+Ki
+inhibitory constant
+Pch
+phosphocholine
+MCK1
+macro-creatine kinase type 1
+PABP1
+poly(A)-binding protein 1
+CR-ST syndrome
+calcinosis, Raynaud's phenomenon, sclerodactyly, telangiectasia syndrome
+C/EBP α
+CCAAT/enhancer-binding protein-α
+PSMB9
+proteasome subunit β type 9
+10 m walk test
+Ten-Meter Walk Test
+tn-T
+troponin T
+IVL
+intravascular large B-cell lymphoma
+NMS
+nonmotor symptom
+ESAS
+Edmonton Symptom Assessment Scale
+KIFMK
+lysyl-isoleucyl-phenylalanyl-methionyl-lysine
+CB(2)
+cannabinoid receptor-II
+A/P
+anterior-posterior
+AMCV
+avian myelocytomatosis virus
+mm
+moist membranes
+Ig mu chain
+immunoglobulin μ-chain
+sRAGE
+soluble RAGE
+HMBC
+heteronuclear multiple-bond connectivity
+UDPGT
+UDP-glucuronyltransferase
+S. balanoides
+Semibalanus balanoides
+IGF 1 receptor
+insulinlike growth factor I receptor
+3'-UTR
+3'-untranslated region
+GERRI
+Geriatric Evaluation by Relative's Rating Instrument
+rH-IFN-α
+recombinant human interferon-alpha
+PBF
+per cent body-fat
+E. globulus subsp. pseudoglobulus
+Eucalyptus globulus subspecies pseudoglobulus
+antiIL-10 mAb
+anti-IL 10 monoclonal antibody
+MIPs
+major intrinsic proteins
+pHim
+intramucosal pH
+CYP2D6
+cytochrome P450IID6
+IL-2R alpha
+interleukin 2 receptor alpha
+SAT
+spermidine/spermine N(1)-acetyltransferase
+LOS
+late onset schizophrenia
+T. rex
+Tyrannosaurus rex
+alpha-methyl-acyl CoA racemase
+α-methylacyl coenzyme A racemase
+HPI
+hyperprolinemia type I
